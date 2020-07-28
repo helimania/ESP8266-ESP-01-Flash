@@ -21,3 +21,16 @@
 https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/ESP-01_wifi-serial_bridge.zip
 
 # Drivers setup
+
+Most likely, after connecting PL2303 to USB, you will see the following picture
+
+![preview 5](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/05.jpg)
+
+This means you need to install the correct driver...
+
+![preview 6](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/06.jpg)
+
+![preview 7](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/07.jpg)
+
+![preview 8](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/08.jpg)
+
