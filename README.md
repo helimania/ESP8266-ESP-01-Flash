@@ -75,7 +75,7 @@ Sorry, I don't know much about windows, so no comments. ))
 
 ![preview 17](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/17.jpg)
 
-4 - Select the interface file and click Upload
+4 - Select the WEBFiles.bin file from downloaded package and click Upload
 
 ![preview 18](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/18.jpg)
 
