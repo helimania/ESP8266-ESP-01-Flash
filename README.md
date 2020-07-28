@@ -16,4 +16,8 @@
 
 ![preview 4](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/04.jpg)
 
+4 - Package content
+
+https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/ESP-01_wifi-serial_bridge.zip
+
 # Drivers setup
