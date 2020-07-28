@@ -34,3 +34,10 @@ This means you need to install the correct driver...
 
 ![preview 8](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/08.jpg)
 
+
+Sorry, I don't know much about windows, so no comments. ))
+
+# Flashing ESP-01 module
+
+
+
