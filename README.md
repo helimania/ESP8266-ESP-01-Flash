@@ -66,4 +66,28 @@ Remove the PL2303 from the USB port. Disconnect the GND wire from GPIO0 of ESP-0
 
 ![preview 16](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/16.jpg)
 
+# WEB Server content flashing
+
+1 - Connect to USB PL2303 with wired ESP-01.
+
+2 - Connect to the ESP8266 ower WiFi.
+
+3 - Open your browser and enter the address 192.168.4.1/fsupload. Enter Login <b>ESP8266</b> and Password <b>0123456789</b> and we see the following picture.
+
+![preview 17](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/17.jpg)
+
+4 - Select the interface file and click Upload
+
+![preview 18](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/18.jpg)
+
+5 - After flashing, ESP-01 now automaticaly rebooting.
+
+![preview 19](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/19.jpg)
+
+6
+
+
+
+
+
 
