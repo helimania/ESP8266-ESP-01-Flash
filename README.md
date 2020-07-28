@@ -83,15 +83,16 @@ Sorry, I don't know much about windows, so no comments. ))
 
 ![preview 19](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/19.jpg)
 
-6 - In the browser, enter the address 192.168.4.1
+6 - Cross your fingers and enter the address 192.168.4.1 in the browser...
 
 ![preview 20](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/20.jpg)
 
 Name: ESP8266 Password: 0123456789
 
-Enjoy)))
 
-Source:
+I was glad to help you! Enjoy)))
+
+Source by ALex FRUD:
 - part 1 https://www.drive2.ru/b/541373138311578820/
 - part 2 https://www.drive2.ru/b/541376986602274976/
 - part 3 https://www.drive2.ru/b/541378635869717687/
