@@ -67,7 +67,7 @@ Sorry, I don't know much about windows, so no comments. ))
 
 # WEB Server content flashing
 
-1 - Connect PL2303 with wired ESP-01 to USB.
+1 - Connect TTL converter (with wired ESP-01) to USB.
 
 2 - Ower WiFi connect to the ESP8266.
 
