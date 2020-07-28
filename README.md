@@ -47,7 +47,7 @@ Sorry, I don't know much about windows, so no comments. ))
 ![preview 10](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/10.jpg)
 
 
-3 - Go to the Config tab and select the firmware binaries. Do not forget to check the boxes on the left and register the correct addresses on the right (indicated in the names of the binary files)
+3 - Go to the Config tab and select the firmware binaries from downloaded package. Do not forget to check the boxes on the left and register the correct addresses on the right (indicated in the names of the binary files)
 
 ![preview 11](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/11.jpg)
 
