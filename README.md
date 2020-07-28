@@ -22,7 +22,7 @@ https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/ESP-01_wifi-serial
 
 # Drivers setup
 
-1 - Most likely, after connecting PL2303 to USB, you will see the following picture
+1 - Most likely, after connecting TTL converter to USB, you will see the following picture
 
 ![preview 5](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/05.jpg)
 
