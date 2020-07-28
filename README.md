@@ -4,7 +4,7 @@
 
 # You will need
 
-1 - USB-UART PL2303 3.3V or another USB to UART converter
+1 - USB-UART PL2303 3.3V or another USB to TTL converter
 
 ![preview 2](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/02.jpg)
 
