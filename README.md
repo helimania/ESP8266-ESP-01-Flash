@@ -44,7 +44,7 @@ Connect ESP-01 to PL2303 according to the following scheme
 ![preview 9](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/09.jpg)
 
 
-Remove the PL2303 from the USB port. Disconnect the GND wire from GPIO0 ESP-01
+Remove the PL2303 from the USB port. Disconnect the GND wire from GPIO0 of ESP-01
 
 ![preview 16](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/16.jpg)
 
