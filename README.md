@@ -43,6 +43,24 @@ Connect ESP-01 to PL2303 according to the following scheme
 
 ![preview 9](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/09.jpg)
 
+Connect PL2303 to USB. And Run TCP2UARTFlasher.exe
+
+![preview 10](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/10.jpg)
+
+
+Go to the Config tab and select the firmware binaries. Do not forget to check the boxes on the left and register the correct addresses on the right (indicated in the names of the binary files)
+
+![preview 11](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/11.jpg)
+
+
+Go back to the Operation tab and press Flash (F)
+
+![preview 12](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/12.jpg)
+
+
+We are waiting for the completion of the process
+
+![preview 14](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/14.jpg)
 
 Remove the PL2303 from the USB port. Disconnect the GND wire from GPIO0 of ESP-01
 
