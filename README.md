@@ -22,11 +22,11 @@ https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/ESP-01_wifi-serial
 
 # Drivers setup
 
-Most likely, after connecting PL2303 to USB, you will see the following picture
+1 - Most likely, after connecting PL2303 to USB, you will see the following picture
 
 ![preview 5](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/05.jpg)
 
-This means you need to install the correct driver...
+2 - This means you need to install the correct driver...
 
 ![preview 6](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/06.jpg)
 
@@ -34,43 +34,42 @@ This means you need to install the correct driver...
 
 ![preview 8](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/08.jpg)
 
-
 Sorry, I don't know much about windows, so no comments. ))
 
 # Flashing ESP-01 module
 
-Connect ESP-01 to PL2303 according to the following scheme
+1 - Connect ESP-01 to PL2303 according to the following scheme
 
 ![preview 9](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/09.jpg)
 
-Connect PL2303 to USB. And Run TCP2UARTFlasher.exe
+2- Connect PL2303 to USB. And Run TCP2UARTFlasher.exe
 
 ![preview 10](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/10.jpg)
 
 
-Go to the Config tab and select the firmware binaries. Do not forget to check the boxes on the left and register the correct addresses on the right (indicated in the names of the binary files)
+3 - Go to the Config tab and select the firmware binaries. Do not forget to check the boxes on the left and register the correct addresses on the right (indicated in the names of the binary files)
 
 ![preview 11](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/11.jpg)
 
 
-Go back to the Operation tab and press Flash (F)
+4 - Go back to the Operation tab and press Flash (F)
 
 ![preview 12](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/12.jpg)
 
 
-We are waiting for the completion of the process
+5 - We are waiting for the completion of the process
 
 ![preview 14](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/14.jpg)
 
-Remove the PL2303 from the USB port. Disconnect the GND wire from GPIO0 of ESP-01
+6 - Remove the PL2303 from the USB port. Disconnect the GND wire from GPIO0 of ESP-01
 
 ![preview 16](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/16.jpg)
 
 # WEB Server content flashing
 
-1 - Connect to USB PL2303 with wired ESP-01.
+1 - Connect PL2303 with wired ESP-01 to USB.
 
-2 - Connect to the ESP8266 ower WiFi.
+2 - Ower WiFi connect to the ESP8266.
 
 3 - Open your browser and enter the address 192.168.4.1/fsupload. Enter Login <b>ESP8266</b> and Password <b>0123456789</b> and we see the following picture.
 
@@ -84,10 +83,10 @@ Remove the PL2303 from the USB port. Disconnect the GND wire from GPIO0 of ESP-0
 
 ![preview 19](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/19.jpg)
 
-6
+6 - In the browser, enter the address 192.168.4.1
 
+![preview 20](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/20.jpg)
 
+Name: ESP8266 Password: 0123456789
 
-
-
-
+Enjoy)))
