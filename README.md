@@ -88,7 +88,7 @@ Sorry, I don't know much about windows, so no comments. ))
 ![preview 20](https://github.com/helimania/ESP8266-ESP-01-Flash/blob/master/images/20.jpg)
 
 
-Do not forget! Default name <b>ESP8266</b> and password <b>0123456789</b>, which can be set on the WIFI Settings tab.
+Do not forget! Default name <b>ESP8266</b> and password <b>0123456789</b>, which can be set on the WIFI Settings tab at any time.
 
 I was glad to help you! Enjoy)))
 
