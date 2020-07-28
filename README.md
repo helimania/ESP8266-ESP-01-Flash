@@ -91,8 +91,7 @@ Name: ESP8266 Password: 0123456789
 
 Enjoy)))
 
-Source (part 1) https://www.drive2.ru/b/541373138311578820/
-
-Source (part 2) https://www.drive2.ru/b/541376986602274976/
-
-Source (part 3) https://www.drive2.ru/b/541378635869717687/
+Source:
+- part 1 https://www.drive2.ru/b/541373138311578820/
+- part 2 https://www.drive2.ru/b/541376986602274976/
+- part 3 https://www.drive2.ru/b/541378635869717687/
